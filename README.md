@@ -14,7 +14,6 @@ This is a code base for multiplayer projects using **Netick** in Unity. It provi
 ## Technologies Used  
 - 🎮 **Unity** (Recommended version: 2022+)  
 - ⚡ **Netick** (Real-time multiplayer framework)  
-- 📦 **Addressables** (For dynamic asset management in multiplayer environments)  
 
 ## Goals  
 - 🚀 Provide a reusable foundation for multiplayer game development  
