@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a752f2027cff89840a0eb35dfcfec0f7, type: 3}
+  m_Name: IronManTankConfig
+  m_EditorClassIdentifier: 
+  _tankType: 3
+  _tankStatConfig: {fileID: 11400000, guid: 3110a2d8c5f44fb43afddd619b047d8b, type: 2}
+  _tankRendererConfig: {fileID: 11400000, guid: 1edab625719b1fd4ebe79c8a8562c1ae, type: 2}
